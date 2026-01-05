@@ -1,0 +1,5 @@
+print("jhon",end=" ")
+print("smith" )
+print("fullstack" ,end=" ") 
+print("developer")
+print("================================")
