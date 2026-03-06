@@ -18,4 +18,4 @@ class FibonacciNumber:
 
 instance = FibonacciNumber()
 print(instance.solution(10))   # True
-print(instance.solution(7))    # False
+print(instance.solution(8))    # False
